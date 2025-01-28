@@ -16,21 +16,9 @@
 * **public:** Contém os arquivos estáticos, como imagens e CSS.
 * **src:** Contém o código fonte principal da aplicação.
 
-## Instalação
-1. Clone este repositório: `git clone https://github.com/seu-usuario/farme.git`
-2. Instale as dependências: `npm install`
-3. Inicie o servidor de desenvolvimento: `npm start`
-
 ## Contribuições
 Contribuições são bem-vindas! Para contribuir, siga estes passos:
 1. Fork este repositório.
 2. Crie um novo branch.
 3. Faça suas alterações.
 4. Envie um pull request.
-
-## Licença
-Este projeto está licenciado sob a licença MIT.
-
-**Observação:** Adapte este exemplo às suas necessidades e ao seu projeto.
-
-**Lembre-se:** O README.md é a porta de entrada para o seu projeto. Um README bem escrito e informativo pode atrair mais colaboradores e facilitar a compreensão do seu código.
